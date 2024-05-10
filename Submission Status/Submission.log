@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.1.31)  10 MAY 2024 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.1.31)  10 MAY 2024 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -363,7 +363,29 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@expandcount=\count294
  (C:\Users\Kushal\Downloads\miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (C:\Users\Kushal\Downloads\miktex\tex/latex/placeins\placeins.sty
+))) (C:\Users\Kushal\Downloads\miktex\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+ (C:\Users\Kushal\Downloads\miktex\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\Kushal\Downloads\miktex\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen260
+\captionmargin=\dimen261
+\caption@leftmargin=\dimen262
+\caption@rightmargin=\dimen263
+\caption@width=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count297
+\c@subtable=\count298
+) (C:\Users\Kushal\Downloads\miktex\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
 ) (C:\Users\Kushal\Downloads\miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -411,35 +433,36 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartfivebox=\box81
 ))) (C:\Users\Kushal\Downloads\miktex\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowinset=\dimen260
-\pgfarrowlength=\dimen261
-\pgfarrowwidth=\dimen262
-\pgfarrowlinewidth=\dimen263
+\pgfarrowinset=\dimen268
+\pgfarrowlength=\dimen269
+\pgfarrowwidth=\dimen270
+\pgfarrowlinewidth=\dimen271
 ) (C:\Users\Kushal\Downloads\miktex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
+\l__color_backend_stack_int=\count299
 \l__pdf_internal_box=\box82
-) (Submission.aux)
+)
+(Submission.aux)
 \openout1 = `Submission.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -477,16 +500,16 @@ LaTeX Font Info:    ... okay on input line 18.
 
 (C:\Users\Kushal\Downloads\miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen264
+\scratchcounter=\count300
+\scratchdimen=\dimen272
 \scratchbox=\box83
-\nofMPsegments=\count297
-\nofMParguments=\count298
+\nofMPsegments=\count301
+\nofMParguments=\count302
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen265
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen273
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
 \everyMPtoPDFconversion=\toks32
 ) (C:\Users\Kushal\Downloads\miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -500,7 +523,7 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\Kushal\Downloads\miktex\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 19.
  (C:\Users\Kushal\Downloads\miktex\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\Kushal\Downloads\miktex\tex/latex/refcount\refcount.sty
@@ -508,42 +531,61 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\Kushal\Downloads\miktex\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count302
+\c@section@level=\count306
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
  (Submission.out) (Submission.out)
 \@outlinefile=\write4
 \openout4 = `Submission.out'.
 
-<LOGOHABIB.png, id=10, 454.69875pt x 344.487pt>
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<LOGOHABIB.png, id=30, 454.69875pt x 344.487pt>
 File: LOGOHABIB.png Graphic file (type png)
 <use LOGOHABIB.png>
-Package pdftex.def Info: LOGOHABIB.png  used on input line 21.
+Package pdftex.def Info: LOGOHABIB.png  used on input line 22.
 (pdftex.def)             Requested size: 227.62204pt x 172.45332pt.
  [1
 
-{C:/Users/Kushal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./LOGOHABIB.png>] (Submission.toc)
-\tf@toc=\write5
-\openout5 = `Submission.toc'.
-
- [2] [3] (Submission.aux)
+{C:/Users/Kushal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./LOGOHABIB.png>]
+<CodaLabFrontPage.jpg, id=41, 1606.0pt x 687.56876pt>
+File: CodaLabFrontPage.jpg Graphic file (type jpg)
+<use CodaLabFrontPage.jpg>
+Package pdftex.def Info: CodaLabFrontPage.jpg  used on input line 50.
+(pdftex.def)             Requested size: 426.79134pt x 182.71893pt.
+<confirmationt1.jpg, id=42, 741.77126pt x 1606.0pt>
+File: confirmationt1.jpg Graphic file (type jpg)
+<use confirmationt1.jpg>
+Package pdftex.def Info: confirmationt1.jpg  used on input line 57.
+(pdftex.def)             Requested size: 105.69415pt x 228.83287pt.
+<confirmationt2.jpg, id=43, 741.77126pt x 1606.0pt>
+File: confirmationt2.jpg Graphic file (type jpg)
+<use confirmationt2.jpg>
+Package pdftex.def Info: confirmationt2.jpg  used on input line 64.
+(pdftex.def)             Requested size: 105.69415pt x 228.83287pt.
+<Task1_Status.jpg, id=44, 1606.0pt x 702.625pt>
+File: Task1_Status.jpg Graphic file (type jpg)
+<use Task1_Status.jpg>
+Package pdftex.def Info: Task1_Status.jpg  used on input line 75.
+(pdftex.def)             Requested size: 426.79134pt x 186.72006pt.
+ [2 <./CodaLabFrontPage.jpg> <./confirmationt1.jpg> <./confirmationt2.jpg>] [3 <./Task1_Status.jpg>] (Submission.aux)
 Package rerunfilecheck Info: File `Submission.out' has not changed.
-(rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
+(rerunfilecheck)             Checksum: 590CC6E10E0024058EABCD8A57976CF4;1238.
  ) 
 Here is how much of TeX's memory you used:
- 21648 strings out of 478593
- 434189 string characters out of 2850229
- 729131 words of memory out of 3000000
- 39462 multiletter control sequences out of 15000+600000
- 472260 words of font info for 38 fonts, out of 8000000 for 9000
+ 23082 strings out of 478593
+ 462227 string characters out of 2850229
+ 753519 words of memory out of 3000000
+ 40879 multiletter control sequences out of 15000+600000
+ 472272 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,80p,497b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Submission.pdf (3 pages, 315445 bytes).
+ 84i,8n,80p,490b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/Kushal/Downloads/miktex/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on Submission.pdf (3 pages, 724756 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,6 +5,7 @@
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{tikz}
+\usepackage{subcaption}
 \usepackage[section]{placeins}
 \usetikzlibrary{positioning, shapes, arrows.meta}
 
@@ -43,11 +44,38 @@
 
 \newpage
 
-\tableofcontents
+\section{\textcolor{sectioncolor}{Proof Of Submission and Leaderboards}}
 
-\newpage
+\subsection{CodaLab Participation Front Page:}
+\includegraphics[width=15cm]{CodaLabFrontPage.jpg}
 
-\section{\textcolor{sectioncolor}{Introduction}}
+\subsection{Task submission Confirmation:}
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=0.5\textwidth]{confirmationt1.jpg}
+        \caption{Confirmation of Task 1}
+        \label{fig:img1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=0.5\textwidth]{confirmationt2.jpg}
+        \caption{Confirmation of Task 2}
+        \label{fig:img2}
+    \end{subfigure}
+    \caption{Confirmation}
+    \label{fig:combined}
+\end{figure}
+
+\section{\textcolor{sectioncolor}{Checkthat Task 1}}
+
+\subsection{Submission Status and No. Of submission:}
+\includegraphics[width=15cm]{Task1_Status.jpg}
+
+\subsection{Task 1 Leaderboards:}
+
 
 
 \end{document}
